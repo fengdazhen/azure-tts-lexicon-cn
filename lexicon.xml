@@ -4,4 +4,8 @@
     <grapheme>陆朝朝</grapheme>
     <phoneme>lu 4 - zhao 1 - zhao 1</phoneme>
   </lexeme>
+  <lexeme>
+    <grapheme>PUA</grapheme>
+    <alias>P U A</alias>
+  </lexeme>
 </lexicon>
